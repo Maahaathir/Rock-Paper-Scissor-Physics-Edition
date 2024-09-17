@@ -7,6 +7,8 @@ RESISTANCE beats VOLTAGE: It stands strong, blocking the flow of Voltage
 <br>
 VOLTAGE beats CURRENT: It provides a driving force for the Current. It pushes those electrons away.
 <br>
+Download the .exe file to play the game
+<br>
 Author: Sarker Mahathir Mohammad
 <br>
 Mail: 0.mahathir.2@gmail.com
