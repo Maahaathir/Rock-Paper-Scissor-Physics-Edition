@@ -1,0 +1,3 @@
+C:\Users\acer\source\repos\RPS PHYSICS\RPS PHYSICS\x64\Debug\RPS PHYSICS.vcxproj.AssemblyReference.cache
+C:\Users\acer\source\repos\RPS PHYSICS\RPS PHYSICS\x64\Debug\RPSPHYSICS.MyForm.resources
+C:\Users\acer\source\repos\RPS PHYSICS\RPS PHYSICS\x64\Debug\RPS PHYSICS.vcxproj.GenerateResource.cache
